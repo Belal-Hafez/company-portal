@@ -1,4 +1,4 @@
-# Project Title
+# Company Website
 
 All the companies would love to have this website because it will make there job much organize, comfortable, and easy to go with. In this website, there is the announcement, Scheduling generation, Edit schedule, and Export file.
 ## Getting Started
