@@ -27,6 +27,7 @@ Follow the steps of installing the xamp and php.
 * PHP
 * JAVA
 * CSS
+* Java Script
 
 
 ## Versioning
